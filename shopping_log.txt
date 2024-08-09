@@ -1,0 +1,12 @@
+Thu Aug  8 16:47:38 2024
+Customer logged in
+Thu Aug  8 16:47:41 2024
+Customer purchased Dr.sheth's sunscreen
+Thu Aug  8 16:47:41 2024
+Customer logged out
+Fri Aug  9 09:51:24 2024
+Customer logged in
+Fri Aug  9 09:51:27 2024
+Customer purchased Dr.sheth's sunscreen
+Fri Aug  9 09:51:27 2024
+Customer logged out
